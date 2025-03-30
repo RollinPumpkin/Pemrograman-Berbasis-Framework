@@ -42,3 +42,6 @@ Menggunakan State untuk Mengelola Data
 | ![image](https://github.com/user-attachments/assets/79e0b142-ebad-433a-8ebc-7579c5bd0f6c) | Buka file src/App.js dan tambahkan kode berikut untuk membuat komponen yang mengelola state |
 | ![image](https://github.com/user-attachments/assets/4acd1ba7-2e68-4f8f-9e0e-e9cd0324fc92) | Tambahkan komponen Example ke dalam komponen App |
 | ![image](https://github.com/user-attachments/assets/1af0b020-bc9f-4d0a-984b-24adb7018c63) | Simpan file dan lihat perubahan di browser. Anda akan melihat form input yang dapat mengupdate state dan menampilkan data yang dimasukkan. |
+
+# TUGAS
+| Hasil Jadi | ![image](https://github.com/user-attachments/assets/8f4bd6b0-eaf3-4c7b-b63f-3d994c5a7446) |
